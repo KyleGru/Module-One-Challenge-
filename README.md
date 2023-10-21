@@ -1,5 +1,4 @@
-## Name
-Refractoring Existing Code for Accessibility 
+# Refractoring Existing Code for Accessibility 
 
 ## Description
 This project contains refracted code to the Horiseon website. The refracted code has now made the website more accessible for people using assistive technologies. The code has also been cleaned up to make it easier to read.
